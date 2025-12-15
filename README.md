@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Saurabh
 
-<!--
-**Saurabh89-v/Saurabh89-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer | HTML • CSS • JavaScript  
+⚡ Clean UI & Performance-driven Web Design
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 💻 Frontend focused developer
+- 🎯 Building responsive & user-friendly interfaces
+- 📘 Currently improving JavaScript & React skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+- 🔹 Suppkart E-commerce Website
+- 🔹 Social Media Dashboard
+- 🔹 3D Login Page
