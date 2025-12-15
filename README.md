@@ -26,7 +26,6 @@
 - Frontend performance optimization  
 - Clean UI architecture
 
-- 
 ### 📌 Featured Projects
 ---
 
